@@ -1,6 +1,6 @@
 # **Exploring and Predicting Students' Academic Performance Through Personal and Social Attributes**
 
-This repository contains the final project for predicting student final grades using various statistical and machine learning models. The analysis focuses on evaluating the performance of different models to determine the best predictors of student success.
+This repository contains the final report of my Data Science project where I predictED student final grades using various statistical and machine learning models. The analysis focuses on evaluating the performance of different models to determine the best predictors of student success.
 
 ## **Project Overview**
 This project uses a dataset from secondary school students to predict their final grades (`G3`) based on several factors such as their grades in the first (`G1`) and second (`G2`) terms, absences, and more.
